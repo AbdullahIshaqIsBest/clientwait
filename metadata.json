@@ -1,0 +1,8 @@
+{
+  "name": "Divine Minds Mystic Healing",
+  "description": "A guided healing and self-reflection experience designed to help individuals reconnect with themselves through the 21-Day Reset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

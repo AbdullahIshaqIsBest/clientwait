@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/shopify", "destination": "/api/shopify.ts" },
+    { "source": "/((?!api/|assets/).*)", "destination": "/index.html" }
+  ]
+}
